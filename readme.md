@@ -1,6 +1,3 @@
-Name: Sean Aeron C. Garcia
-Course || Year & Block: BSIT || 3 - 1
-Age: 21
-Hobby: Playing Basketball.
-
-#My Initial commit
+SAD Block1
+#SAD Block1
+#My initial commit
